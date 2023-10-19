@@ -13,10 +13,9 @@ Hi, I am Jiahua Chen (Ella, 陈佳桦 in Chinese). Now I am a software engineer 
 **I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
 
 My interests lie in:
+- generative model, especially LLM for Generative AI
 - alignment of multimodal data
-- generative model
 - federated learning
-
  
 # Education
 ------
