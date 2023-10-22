@@ -20,12 +20,12 @@ My interests lie in:
 # Education
 ------
 - Software engineer in Meituan  Inc., July 2023 - Now.
-- M.Eng in Electronic information engineering, Peking University, Sept. 2020 - July 2023.
+- M.Eng in Electronic and information engineering, Peking University, Sept. 2020 - July 2023.
 - BE in Software Engineering, Xidian University, Sept. 2016 - Jul. 2020.
 
 # Internship
 ------
-- [Samsung Electronics China Research Institute](https://research.samsung.com/src-b){:target="_blank"}, multimodal and image generation algorithm research intern, July 2022 - Jan. 2023. 
+- [Samsung Electronics China Research Institute](https://research.samsung.com/src-b){:target="_blank"}, multimodal and image generation algorithm research intern, July 2022 - Jan. 2023, [[certificate](assets/interns/Samsung_Internship_Certificate.jpg){:target="_blank"}]. 
 
 # Publication
 ------
