@@ -37,7 +37,9 @@ My interests lie in:
 
 # Patent
 ------
+- **Chinese patent: Backdoor attack method and device for malicious URL detection system** [[certificate](assets/patents/针对恶意URL检测系统的后门攻击方法和装置_发明专利证书_20231020.pdf){:target="_blank"}], 2023.
 - **Chinese patent: An adaptive robust collaborative learning method and device based on clustering** [[certificate](assets/patents/一种基于聚类的自适应鲁棒协作学习方法和装置_YSE1224864-发明专利证书(签章).pdf){:target="_blank"}], 2022.
+
 
 # Contest
 ------
