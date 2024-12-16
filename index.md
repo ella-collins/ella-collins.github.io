@@ -7,19 +7,28 @@ title : ""
 ------
 Hi, I am Jiahua Chen (Ella, 陈佳桦 in Chinese). Now I am a software engineer in [Meituan](https://en.wikipedia.org/wiki/Meituan){:target="_blank"}, my job is to test security strategies to protect the lives of millions of riders and use AI models to build intelligent assistants to recommend actions that internal employees want to use. Previously, I completed my master’s degree at Peking University, advised by Prof. [Ke Xu](https://www.cs.tsinghua.edu.cn/info/1126/3581.htm){:target="_blank"}. And my bachelor’s degree at [Xidian University](https://en.wikipedia.org/wiki/Xidian_University){:target="_blank"}.
 
+<!-- <div style="color:#8B0012; style:left"><b>[Highlight]</b></div>  -->
+<!-- **I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** -->
 
-<div style="color:#8B0012; style:left"><b>[Highlight]</b></div> 
 
-**I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
 My interests lie in:
 - generative model, especially LLM for Generative AI
 - alignment of multimodal data
 - federated learning
+
+# Work Experience
+------
+- Software engineer in Meituan  Inc., July 2023 - Now.
+  - Protect the lives of millions of riders in the delivery process with multiple AI metholds.
+  - Use LLM to recommend scenes/actions to improve the quality and efficiency of software development process.
+  - Explore : Use [MobileAgent](https://github.com/X-PLUG/MobileAgent) to perform software operations. 
+  <!-- [Demo]() -->
+
+
  
 # Education
 ------
-- Software engineer in Meituan  Inc., July 2023 - Now.
 - M.Eng in Electronic and information engineering, Peking University, Sept. 2020 - July 2023.
 - BE in Software Engineering, Xidian University, Sept. 2016 - Jul. 2020.
 
