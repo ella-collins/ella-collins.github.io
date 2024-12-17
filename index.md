@@ -22,14 +22,14 @@ My interests lie in:
 - Software engineer in Meituan  Inc., July 2023 - Now.
   - Protect the lives of millions of riders in the delivery process with multiple AI metholds.
   - Use LLM to recommend scenes/actions to improve the quality and efficiency of software development process.
-  - Explore : Use [MobileAgent](https://github.com/X-PLUG/MobileAgent) to perform software operations. 
+  - Use [MobileAgent](https://github.com/X-PLUG/MobileAgent) to perform software operations. 
   <!-- [Demo]() -->
 
 
  
 # Education
 ------
-- M.Eng in Electronic and information engineering, Peking University, Sept. 2020 - July 2023.
+- M.Eng in Electronic and information engineering, Peking University, Sept. 2020 - July 2023. [[transcript](assets/transcript/Undergraduate_transcript.pdf)]
 - BE in Software Engineering, Xidian University, Sept. 2016 - Jul. 2020.
 
 # Internship
