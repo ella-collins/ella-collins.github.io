@@ -29,8 +29,8 @@ My interests lie in:
  
 # Education
 ------
-- M.Eng in Electronic and information engineering, Peking University, Sept. 2020 - July 2023. [[transcript](assets/transcript/Undergraduate_transcript.pdf)]
-- BE in Software Engineering, Xidian University, Sept. 2016 - Jul. 2020.
+- M.Eng in Electronic and information engineering, Peking University, Sept. 2020 - July 2023.
+- BE in Software Engineering, Xidian University, Sept. 2016 - Jul. 2020. [[transcript](assets/transcript/Undergraduate_transcript.pdf)]
 
 # Internship
 ------
