@@ -2,3 +2,6 @@ _site
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
+.DS_Store
+assets/.DS_Store
+assets/cv/.DS_Store
