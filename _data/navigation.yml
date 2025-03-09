@@ -2,8 +2,11 @@ main:
   - title: "About"
     url: /
   - title: "CV"
-    url: /assets/cv/JiahuaChen-cv.pdf
+    children:
+      - title: "CV-ENG" 
+        url:    /assets/cv/JiahuaChen-CV-ENG.pdf
+      - title:  "CV-CHN"
+        url:    /assets/cv/JiahuaChen-CV-CHN.pdf
   - title: "Log"
     url: /mypages/log
-  # - title: "Hobby"
-  #   url: /tags/
+  
