@@ -2,10 +2,10 @@ main:
   - title: "About"
     url: /
   - title: "CV"
-    children:
-      - title: "CV-ENG" 
+    subfolderitems:
+      - page: "CV-ENG" 
         url:    /assets/cv/JiahuaChen-CV-ENG.pdf
-      - title:  "CV-CHN"
+      - page:  "CV-CHN"
         url:    /assets/cv/JiahuaChen-CV-CHN.pdf
   - title: "Log"
     url: /mypages/log
