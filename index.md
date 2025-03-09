@@ -13,7 +13,7 @@ Hi, I am Jiahua Chen (Ella, 陈佳桦 in Chinese). Now I am a software engineer 
 
 
 My interests lie in:
-- generative model, especially LLM for Generative AI
+- LLM, VLM for robotics
 - alignment of multimodal data
 - federated learning
 
