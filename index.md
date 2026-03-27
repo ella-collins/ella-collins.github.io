@@ -19,7 +19,14 @@ My interests lie in:
 
 # Work Experience
 ------
-- Software engineer in Meituan  Inc., July 2023 - Now.
+- Research Assisstant in the University of Hong Kong (HKU). Sept. 2025 - Mar. 2026
+  -  Collect the equipment panel parameters of Haichuang Intelligent Manufacturing’s factory, which is used to create a
+  digital twin system for the factory. A related patent is currently under review, titled ”Intelligent Recognition Method
+  and System for Factory Equipment Panel Parameters Based on Improved PaddleOCR”.
+  - Research on text-to-video generation methods, which are used to generate training data in the field of construction
+  safety.
+
+- Software engineer in Meituan  Inc., July 2023 - June 2025.
   - Protect the lives of millions of riders in the delivery process with multiple AI metholds.
   - Use LLM to recommend scenes/actions to improve the quality and efficiency of software development process.
   - Use [MobileAgent](https://github.com/X-PLUG/MobileAgent) to perform software operations. 
